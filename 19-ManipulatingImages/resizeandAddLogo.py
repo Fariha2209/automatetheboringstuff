@@ -35,4 +35,7 @@ im.paste(logoIm, (width - logoWidth, height - logoHeight), logoIm)
 
 im.save(os.path.join('withLogo', filename))
 
+print('DONE!')
+#check
+#test
 
