@@ -35,7 +35,13 @@ im.paste(logoIm, (width - logoWidth, height - logoHeight), logoIm)
 
 im.save(os.path.join('withLogo', filename))
 
+<<<<<<< HEAD
 print('DONE!')
 #check
 #test
 
+=======
+#checking for git
+#check check check 
+ 
+>>>>>>> 142fa4b (testing)
